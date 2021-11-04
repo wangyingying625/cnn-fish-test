@@ -1,0 +1,6 @@
+model_checkpoint_path: "fish.ckpt"
+all_model_checkpoint_paths: "/Users/taro/Documents/code/wyyCode/code/python-pro/cnn-text-classification-tf-master/runs/1635425930/checkpoints/model-9090"
+all_model_checkpoint_paths: "/Users/taro/Documents/code/wyyCode/code/python-pro/cnn-text-classification-tf-master/runs/1635425930/checkpoints/model-9100"
+all_model_checkpoint_paths: "/Users/taro/Documents/code/wyyCode/code/python-pro/cnn-text-classification-tf-master/runs/1635425930/checkpoints/model-9110"
+all_model_checkpoint_paths: "/Users/taro/Documents/code/wyyCode/code/python-pro/cnn-text-classification-tf-master/runs/1635425930/checkpoints/model-9120"
+all_model_checkpoint_paths: "fish.ckpt"
